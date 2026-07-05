@@ -1,6 +1,7 @@
 # StoryNet Bittensor Subnet Requirements
 # ======================================
 
+
 # Core Bittensor SDK
 # IMPORTANT: Version 9.0.0+ required for commit-reveal weights support (Feb 2025)
 bittensor>=9.0.0
